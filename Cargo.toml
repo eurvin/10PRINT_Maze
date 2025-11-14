@@ -1,0 +1,12 @@
+[workspace]
+resolver = "3"
+members = ["maze1"]
+
+[workspace.dependencies]
+nannou = "0.19.0"
+nannou_egui = "0.19.0"
+
+[package]
+name = "10PRINT_Maze"
+version = "0.1.0"
+edition = "2024"
