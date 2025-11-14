@@ -9,6 +9,7 @@ This tutorial assumes you have basic knowledge of Rust, you have read the [Rust 
 We have increased the difficulty of this tutorial incrementally in each part. This is done to increase your learning curve and to no repeat ourselves every step of the way, so if you are stuck at a certain step, please apply every lesson from the previous step to your current step before continuing along.
 
 Next follows an small outline of what we will be doing in each version of 10PRINT Maze:
+
 **Part 1:** In this part we create a  one-time basic Nannou sketch that randomly generates a maze. This part of 10PRINT Maze teaches you the following:
 1. Familiarize yourself with the basic Nannou sketch architecture, library and prelude.
 2. Learn how to set up our window, grid and coordinate system.
